@@ -1,0 +1,8 @@
+asdf-plugin-manager  https://github.com/asdf-community/asdf-plugin-manager.git  54ac342
+coursier             https://github.com/jiahuili430/asdf-coursier.git           4de3f10
+java                 https://github.com/halcyon/asdf-java.git                   70c665d
+jq                   https://github.com/lsanwick/asdf-jq.git                    f02032e
+make                 https://github.com/yacchi/asdf-make.git                    2f12c4d
+tmux                 https://github.com/aphecetche/asdf-tmux.git                eb8deee
+vim                  https://github.com/tsuyoshicho/asdf-vim.git                f335007
+yq                   https://github.com/sudermanjr/asdf-yq.git                  772992f
